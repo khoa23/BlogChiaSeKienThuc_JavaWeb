@@ -1,0 +1,8 @@
+eclipse.preferences.version=1
+encoding//WebContent/WEB-INF/views/user/loginUser.jsp=UTF-8
+encoding//src/Mock/dao/PostDao.java=UTF-8
+encoding//src/Mock/servlet/CategoryAddServlet.java=UTF-8
+encoding//src/Mock/servlet/ChangePasswordServlet.java=UTF-8
+encoding//src/Mock/servlet/EditPost.java=UTF-8
+encoding//src/Mock/servlet/PostAddservlet.java=UTF-8
+encoding//src/Mock/servlet/PostDetailServlet.java=UTF-8
